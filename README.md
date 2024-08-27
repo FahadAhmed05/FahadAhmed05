@@ -1,18 +1,16 @@
 
 <h1 align="center">Hi , I'm Fahad Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/FahadAhmed05/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">With a great enthusiasm for web programming, I am a second-year student and a junior developer. I enjoy coding, innovating, and experimenting. I am proficient in HTML, CSS, JavaScript, React, Bootstrap, MySQL, Firebase, and Adobe Creative Cloud. I'm a motivated and sociable person who enjoys taking on new challenges and continuing my education. I enjoy interacting with new people, sharing thoughts, and uplifting the IT community.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FahadAhmed05&label=Profile%20views&color=0e75b6&style=plastic" alt="FahadAhmed05" /> </p>
 
-<div align="center">
-  <a href="https://github.com/fahadahmed05">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed05&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  </a>
-</div>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadAhmed05&theme=algolia" alt="FahadAhmed05"  /></p>
+
+
 
 
 ## 🛠️ My Skills
@@ -25,6 +23,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
+</a>
 </p>
 
 ### 👉 Frontend Development
@@ -45,6 +47,11 @@
   <a href="https://react.dev/">
     <img alt="React" src="https://img.shields.io/badge/React-gray?logo=react&style=flat"/>
   </a>
+  &emsp;
+ <a href="https://nextjs.org/">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next-gray?logo=next.js&style=flat"/>
+</a>
+
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -94,7 +101,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/fahadahmed05/github-readme-stats"><img alt="Fahad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahadahmed05&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/FahadAhmed05/github-readme-stats"><img alt="Fahad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FahadAhmed05&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahadAhmed05&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fahadahmed05" height="192px"/>
