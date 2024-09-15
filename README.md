@@ -104,7 +104,7 @@
     <a href="https://github.com/FahadAhmed05/github-readme-stats"><img alt="Fahad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FahadAhmed05&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahadAhmed05&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fahadahmed05" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahadAhmed05&show_icons=true&&count_private=truelocale=en&layout=compact&theme=algolia" alt="fahadahmed05" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
