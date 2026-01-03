@@ -8,9 +8,12 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadAhmed05&theme=algolia" alt="FahadAhmed05"  /></p>
 
+<div align="center">
 
+<img src="https://nirzak-streak-stats.vercel.app/?user=fahadahmed05&theme=dark&hide_border=false" />
+
+</div>
 
 
 ## 🛠️ My Skills
@@ -98,21 +101,29 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats 
 
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=fahadahmed05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=fahadahmed05&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div> -->
 
-<details> 
+<!-- <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
+	
   <br/>
   <p align="center">
-    <a href="https://github.com/FahadAhmed05/github-readme-stats"><img alt="Fahad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FahadAhmed05&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/FahadAhmed05/github-readme-stats"><img alt="Fahad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fahadahmed05&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahadAhmed05&show_icons=true&&count_private=truelocale=en&layout=compact&theme=algolia" alt="fahadahmed05" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
+</details> -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <br/>
 
