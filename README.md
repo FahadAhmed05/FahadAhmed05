@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Fahad Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <p align="center">
-  <a href="https://github.com/FahadAhmed05/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/FahadAhmed05/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BS+Data+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Learning, building, and improving every day. MERN stack developer focused on creating reliable and user-friendly web experiences.</h4>
